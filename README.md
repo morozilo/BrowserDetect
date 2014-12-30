@@ -1,0 +1,4 @@
+BrowserDetect
+=============
+
+VisualStudioProject
